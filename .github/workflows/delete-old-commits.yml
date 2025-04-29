@@ -3,7 +3,7 @@ name: Delete Old Commits
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # 每天 UTC 午夜运行
+    - cron: '0 0 * * 1'  # 每周 UTC 午夜运行
   workflow_dispatch:     # 允许手动触发
 
 jobs:
