@@ -63,7 +63,6 @@
 {"key":"xzso","name":"饭盘它三盘","type":3,"api":"csp_XzsoGuard","jar":"./fan_jar/f0508.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k"}},
 {"key":"夸搜","name":"饭夸搜夸父","type":3,"api":"csp_PanSearchGuard","jar":"./fan_jar/f0508.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k"}},
 {"key":"csp_PanSearch","name":"南风盘搜索","type":3,"api":"csp_PanSearch","jar": "./Yoursmile.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"./zhenxin/peizhi.json"}},
-{"ext":"eyJhcGlLZXkiOiIxNWJjMjRjYS00ODBhLTQ1ODktOWFmYi02ZjJmMmNjYjk4MGYiLCJhcGkiOiJodHRwOi8vMjE4Ljc5LjExNi45OjkyNDUifQ==","filterable":1,"quickSearch":1,"name":"小雅","viewType":{"style":{"type":"rect"}},"changeable":0,"jar":"http://218.79.116.9:9245/spring.jar","api":"csp_XiaoYa","type":3,"key":"csp_XiaoYa","searchable":1},
 
 {"key":"dr_兔小贝","name":"儿童启蒙","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","jar":"./fan_jar/f0328a.txt","ext":"./课堂/兔小贝.js","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0},
 {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_BiliGuard","jar":"./fan_jar/f0328a.txt","style":{"type":"rect","ratio":1.597},
