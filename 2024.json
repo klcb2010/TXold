@@ -16,7 +16,7 @@
 {"key":"Biliych","name":"哔哩哔哩","type": 3,"api": "csp_BiliGuard","jar":"./fan_jar/f0328a.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./bilibli_peizhi.json"}},
 {"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#音乐","keywords":"排行榜,热门话题,热门趋势","codecs":"","proxy":"noproxy","danmu":false},"style":{"type":"rect","ratio":1.77}},
 {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":0},
-{"key":"零度影视APP.py","name":"零度影视","type":3,"api":"./零度影视APP.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1}
+{"key":"零度影视APP.py","name":"零度影视","type":3,"api":"./零度影视APP.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"Mp4电影","name":"潇洒Mp4电影","type":3,"jar":"./spider.jar","api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"农民影视", "name":"潇洒农民", "type":3, "jar":"./spider.jar", "api":"csp_XBPQ", "ext":"https://gitee.com/PizazzXS/another-d/raw/master/movie/json/NMYS.json"},
