@@ -13,7 +13,7 @@
 {"key": "應用商店","name": "直播、备用软件","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./app.json"},
 {"key": "网盘配置", "name": "直播相关配置", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "ext": "./lib/tokenm.json", "style": {"type": "rect", "ratio": 1.5}},
 {"key":"Guazi","name":"瓜子影视","type":3,"api":"csp_Guazi","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":""},
-{"key":"Biliych","name":"哔哩哔哩","type": 3,"api": "csp_BiliGuard","jar":"./fan_jar/f0328a.txt","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"./bilibli_peizhi.json"}},
+{"key":"Biliych","name":"哔哩哔哩","type": 3,"api": "csp_BiliGuard","jar":"./fan_jar/f0328a.txt","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":0,"ext":{"json":"./bilibli_peizhi.json"}},
 {"key":"Youtube","name":"Youtube","type":3,"api":"csp_Youtube","searchable":1,"quickSearch":1,"changeable":0,"timeout":120,"ext":{"token":"./lib/tokenm.json","json":"./lib/youtube.json","type":"直播#新闻#音乐","keywords":"排行榜,热门话题,热门趋势","codecs":"","proxy":"noproxy","danmu":false},"style":{"type":"rect","ratio":1.77}},
 {"key":"巴士","name":"巴士","type":3,"api":"csp_Dm84","searchable":1,"changeable":0},
 {"key":"零度影视APP.py","name":"零度影视","type":3,"api":"./零度影视APP.py","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
