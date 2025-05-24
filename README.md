@@ -1,4 +1,6 @@
+低码  抓  websocket  ID       
 
+超级终端 ip neigh 就能看到热点设备的ip地址
 
 外挂jar本地或者https不得多于2，否则wogg的网盘播放必挂(fan的https不算)。
 
@@ -21,11 +23,20 @@
 10. 雨滴   同上
 11.  暴风采集  注入文字赌博广告
 12. 洽洽  黄毒广告
-13. 黑木耳
-14. 热播多线 
+13. 黑木耳 加密弹窗广告
+14. 
 15. 天天/浪酷  太多枪版
-16. 糯米秒播
 
+16. 
+
+17.潇洒QD影视  注入文字广告
+
+18·大玩偶  枪版
+
+19· 
+
+
+20. 溢彩秒播   注入文字广告
 
 默认进入直播  直播房子键   禁止标志  点成火箭
 
@@ -34,8 +45,7 @@
 
 3、直播界面 菜单键 切换TV和广播 没有home键和菜单键的辣鸡电视千万不能要，home键方便一键回到桌面
 
-4、同步gitlab镜像仓库，加速链接 https://cors.isteed.cc/
-
+4、加速链接 https://ghfast.top/
 
 安装zhibo镜像 
 
@@ -49,7 +59,7 @@ docker run -d --restart=unless-stopped --pull=always -v /etc/allinone_format:/ap
 查看镜像ID   docker images
 
 
-定时更新 
+定时更新
 
 
 docker run -d --name watchtower --restart unless-stopped \
