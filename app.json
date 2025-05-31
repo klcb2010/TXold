@@ -1,7 +1,6 @@
 [{
   
   "list": [
-{"name": "电视直播", "url": "https://ghfast.top/github.com/klcb2010/TX/releases/download/1.0/TVlive.apk", "icon": "https://ghfast.top/github.com/klcb2010/TX/raw/master/logo/TVlive.png", "version": "1.1.1.135"},
 {"name": "全网通直播", "url": "https://ghfast.top/github.com/klcb2010/TX/releases/download/1.0/quanwangtong.apk", "icon": "https://ghfast.top/github.com/klcb2010/TX/raw/master/logo/icon.png", "version": "1.0"},
 {"name": "WebView直播", "url": "https://ghfast.top/github.com/klcb2010/TX/releases/download/1.0/WebViewTV.apk", "icon": "https://ghfast.top/github.com/klcb2010/TX/raw/master/logo/webTVicon.png", "version": "1.0"},
 {"name": "OK影视TV版", "url": "https://ghfast.top/github.com/klcb2010/TX/releases/download/1.0/TV.apk", "icon": "https://ghfast.top/github.com/klcb2010/TX/raw/master/logo/apklogo.png", "version": "2.9.3"},
