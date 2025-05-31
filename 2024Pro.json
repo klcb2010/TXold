@@ -8,7 +8,7 @@
 "wallpaper":"https://bing.img.run/rand.php",
 
 "sites":[
-{"key":"豆瓣","name":"更新日期：25.05.28","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"豆瓣","name":"更新日期：25.05.31","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 {"key": "网盘配置", "name": "直播相关配置", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "ext": "./lib/tokenm.json", "style": {"type": "rect", "ratio": 1.5}},
 {"key": "應用商店","name": "直播与备用软件","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./app.json"},
 
@@ -21,11 +21,17 @@
 {"key":"配置中心","name":"OK网盘配置","type":3,"api":"csp_ConfigGuard","jar":"./ok/ok0527.png","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"ddys_js","name":"OK低端","type": 3,"searchable":1,"jar":"./ok/ok0527.png","quickSearch":1,"filterable":1,"api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js", "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt", "timeout": 15},
 {"key":"百度趣盘","name":"OK百度4K","type":3,"api":"csp_BaiduQuPanGuard","jar":"./ok/ok0527.png","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},"timeout":25},
+{"key": "云集", "name": "OK云集", "type": 3, "api": "csp_YunJiGuard", "jar":"./ok/ok0527.png","quickSearch": 1, "changeable": 1, "filterable": 1, "ext": {"danmu": true}, "timeout": 25},
+{"key": "盘他", "name": "OK盘他", "type": 3, "api": "csp_PantaGuard", "jar":"./ok/ok0527.png","quickSearch": 1, "changeable": 1, "filterable": 1, "timeout": 25},
+{"key": "光影弹幕版", "name": "OK光影", "type": 3, "api": "csp_GuanyingGuard","jar":"./ok/ok0527.png", "searchable": 1, "filterable": 1, "changeable": 1, "ext": {"danmu": true}, "timeout": 30},
+{"key": "海绵", "name": "OK海绵", "type": 3, "api": "csp_HaiMianGuard","jar":"./ok/ok0527.png","quickSearch": 1, "changeable": 1, "filterable": 1, "timeout": 25},
+{"key": "雷鲸", "name": "OK雷鲸", "type": 3, "api": "csp_LeiJingGuard", "jar":"./ok/ok0527.png","quickSearch": 1, "changeable": 1, "filterable": 1, "timeout": 25},
 {"key":"闪电弹幕","name":"OK闪电","type":3,"api":"csp_ShanDianGuard","jar":"./ok/ok0527.png","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
 {"key":"123分享","name":"OK1234K","type":3,"api":"csp_Time123Guard","jar":"./ok/ok0527.png","quickSearch":0,"changeable":0,"filterable":1,"timeout":25},
 {"key":"韩圈","name":"OK韩圈","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"jar":"./ok/ok0527.png","quickSearch":1,"filterable":1,"ext":{"danmu":true},"timeout":10},
 {"key":"甜圈短剧","name":"OK甜圈短剧","type":3,"api":"csp_TianQuanGuard","searchable":1,"quickSearch":1,"jar":"./ok/ok0527.png","filterable":1,"timeout":10},
 {"key":"双星","name":"OK双星","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"ext":{"danmu":true},"style":{"type":"list"},"timeout":25},
+ {"key": "木偶弹幕", "name": "OK木偶", "type": 3, "api": "csp_MuouGuard", "quickSearch": 1,"jar":"./ok/ok0527.png", "changeable": 1, "filterable": 1, "ext": {"danmu": true}, "timeout": 25},
 {"key":"蜡笔弹幕","name":"OK蜡笔","type":3,"api":"csp_LabiGuard","quickSearch":1,"jar":"./ok/ok0527.png","changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
 {"key":"新6V","name":"OK新6V","type":3,"api":"csp_Xb6vGuard","searchable":1,"jar":"./ok/ok0527.png","changeable":0,"timeout":20},
 {"key":"玩偶弹幕版","name":"OK玩偶","type":3,"api":"csp_WoggGuard","searchable":1,"filterable":1,"jar":"./ok/ok0527.png","changeable":1,"ext":{"danmu":true},"timeout":30},
