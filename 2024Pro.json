@@ -8,7 +8,7 @@
 "wallpaper":"https://bing.img.run/rand.php",
 
 "sites":[
-{"key":"豆瓣","name":"更新日期：25.06.14","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"豆瓣","name":"更新日期：25.06.15","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
 {"key": "网盘配置", "name": "直播相关配置", "type": 3, "api": "csp_Config", "searchable": 0, "changeable": 0, "ext": "./lib/tokenm.json", "style": {"type": "rect", "ratio": 1.5}},
 {"key": "應用商店","name": "直播与备用软件","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./app.json"},
 
