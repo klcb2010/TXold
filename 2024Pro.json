@@ -40,7 +40,6 @@
 {"key":"多多弹幕","name":"OK多多","type":3,"jar":"./ok/ok0614.png","api":"csp_DuoDuoGuard","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
 {"key":"表哥弹幕","name":"OK表哥","type":3,"api":"csp_DbgGuard","jar":"./ok/ok0614.png","quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},"timeout":25},
 {"key":"虎斑弹幕","name":"OK虎斑","type":3,"api":"csp_HuBanGuard","quickSearch":1, "changeable":1,"jar":"./ok/ok0614.png", "filterable":1, "ext": {"danmu" : true},"timeout": 25},
-{"key":"光影弹幕版","name":"OK光影","type":3,"api":"csp_GuanyingGuard","searchable":1,"filterable":1,"jar":"./ok/ok0614.png","changeable":1, "ext": {"danmu" : true},"timeout":30},
 {"key":"糯米","name":"OK糯米","type": 3,"api":"csp_NmysGuard","searchable":1,"quickSearch":1,"jar":"./ok/ok0614.png","filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"素白白弹幕版","name":"OK素白","type": 3,"api":"csp_SubaibaiGuard","searchable":1,"quickSearch":1,"jar":"./ok/ok0614.png","filterable":1,"ext": {"danmu": true}, "timeout": 10},
 {"key":"木偶弹幕","name":"OK木偶","type":3,"api":"csp_MuouGuard","quickSearch":1, "changeable":1, "jar":"./ok/ok0614.png","filterable":1, "ext": {"danmu" : true}, "timeout": 25},
